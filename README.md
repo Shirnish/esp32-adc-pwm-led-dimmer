@@ -4,6 +4,8 @@ An introductory embedded project that uses a potentiometer to control LED bright
 
 ## Hardware and wiring
 
+![Wiring diagram showing the ESP32 board, potentiometer, and LED circuit](images/wiring-diagram.png)
+
 - ESP32-family development board with an ADC-capable input and LEDC support.
 - Potentiometer, breadboard, and jumper wires.
 - External LED with a suitable series current-limiting resistor, or a compatible onboard LED.
